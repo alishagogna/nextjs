@@ -1,6 +1,6 @@
 Author: Alisha Gogna
 
-The project is created to explore the concepts of Next JS and built on version 15.
+The project is created to explore the concepts of Next.js and built on version 15.
 
 ## Documentation
 
