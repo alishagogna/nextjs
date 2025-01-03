@@ -18,10 +18,10 @@ It would create the node_modules folder which includes all the dependencies requ
 
 ### `npm run dev`
 
-*Install extension Thunder Client to test rest api
-
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
+The page will reload when you make changes.
 You may also see any lint errors in the console.
+
+*Install extension Thunder Client to test rest api
