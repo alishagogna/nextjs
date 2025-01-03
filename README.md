@@ -4,7 +4,7 @@ The project is created to explore the concepts of Next JS and built on version 1
 
 ## Documentation
 
-Documentation can be found on [Storybook's docs site](https://storybook.js.org/docs).
+Documentation can be found on [Next.js documentation](https://nextjs.org/docs).
 
 ## Install Dependencies
 
